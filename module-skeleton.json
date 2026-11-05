@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-content-governance-vue-inertia",
+  "capabilityKey": "liberusoftware/module-cms-content-governance",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-cms-content-governance-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/cms/nextjs/content-governance.md",
+  "presentationPlan": "projects/cms/vue/content-governance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
